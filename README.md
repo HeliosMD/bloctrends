@@ -1,2 +1,2 @@
 # bloctrends
-Bloctrends website code exchange
+Bloctrends website code exchange (deprecated).
